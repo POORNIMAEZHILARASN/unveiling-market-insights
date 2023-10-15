@@ -1,7 +1,7 @@
 # unveiling-market-insights
 
 
-Dashboard public link://public.tableau.com/app/profile/poornima.e/viz/dashboard1_16973754973960/Dashboard1?publish=yes
+Dashboard public link:https://public.tableau.com/app/profile/poornima.e/viz/dashboard1_16973754973960/Dashboard1?publish=yes
 
 story public link ://public.tableau.com/app/profile/poornima.e/viz/story_16971805239970/Story1?publish=yes
 
